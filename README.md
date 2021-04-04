@@ -1,4 +1,4 @@
-# [Dacon] 모션 키포인트 검출 AI 경진대회 참여 README
+# [Dacon] 모션 키포인트 검출 AI 경진대회 참여
 
 ![motion](https://user-images.githubusercontent.com/76798200/113500617-4d375800-955a-11eb-8120-3ae607ff43ba.png)
 
