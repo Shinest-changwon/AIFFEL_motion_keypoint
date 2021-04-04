@@ -56,8 +56,10 @@
 세 번째 접근 방법으로 전이학습을 진행하였다. 
 Keras application에서 제공하는 여러가지 모델 중, 각 멤버가 하나의 모델을 선정하고 augmentation을 적용한 데이터를 전이학습 모델을 이용해 학습을 진행하였다.
 
-**1) 김정우 - MobileNet, Inception**
-**2) 이병현 - Xception**
+**1) 김정우 - MobileNet, Inception**   
+
+**2) 이병현 - Xception**   
+
 **3) 양창원 - NASNet Large**
 
 팀 운영사항에 대한 자세한 내용 확인: https://www.notion.so/vgrlo/22a6d252eaa1441bb0cfe53fd2326ca6
